@@ -1,2 +1,3 @@
 # first-project
-bat we can use is for intelligent 
+bat we also do it for learning
+
